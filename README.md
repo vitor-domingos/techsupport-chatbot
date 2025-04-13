@@ -8,13 +8,16 @@ Este projeto apresenta um chatbot interativo construído utilizando **TypeScript
 * **Lógica Robusta e Tipada:** Implementado em TypeScript para garantir um código bem estruturado, seguro e de fácil manutenção.
 * **Frontend Otimizado com Next.js:** Utiliza Next.js para renderização eficiente, roteamento facilitado e melhor desempenho da aplicação web.
 * **Componentes Dinâmicos com Angular:** Integra componentes Angular para funcionalidades específicas da interface do usuário, aproveitando a arquitetura modular do framework.
-* **Interação Dinâmica:** Permite a troca de mensagens em tempo real com o usuário.
+* **Interação Dinâmica:** Permite a troca de mensagens em tempo real com o usuário.* 
 
 **Tecnologias Utilizadas:**
 
 * **TypeScript:** Linguagem de programação que adiciona tipagem estática ao JavaScript, utilizada em toda a aplicação.
 * **Next.js:** Framework React para construção de aplicações web com renderização do lado do servidor e outras otimizações.
 * **Angular:** Plataforma e framework para construção de aplicações web complexas, utilizado para componentes específicos da UI.
+* **JavaScript:** Linguagem de script para adicionar interatividade ao HTML.
+* **CSS:** Folha de estilos para a apresentação visual da página.
+* **HTML:** Linguagem de marcação para a estrutura da página web.
 
 **Para que Serve:**
 
